@@ -1,4 +1,5 @@
-<h2 align="left">👋 Hi there! I'm a passionate software developer specializing in Nest.js and Node.js. With a strong foundation in backend development, I thrive on building scalable and efficient server-side applications.</h2>
+<h2 align="left">👋 Hi there! I'm a passionate software developer specializing in (React.js,MongoDB , Express JS, typeorm.js
+Node.JS,Nest.js, graphQl ), I thrive on building scalable and efficient full-stack applications.</h2>
 
 ###
 
